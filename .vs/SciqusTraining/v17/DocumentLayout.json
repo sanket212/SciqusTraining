@@ -1,12 +1,189 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Sciqus\\training\\SciqusTraining\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Abhishek\\Desktop\\Sciqus\\Backend\\SciqusTraining\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08146739-C58D-44DE-9E3B-9187EB3B1A1A}|SciqusTraining.API\\SciqusTraining.API.csproj|c:\\users\\abhishek\\desktop\\sciqus\\backend\\sciqustraining\\sciqustraining.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08146739-C58D-44DE-9E3B-9187EB3B1A1A}|SciqusTraining.API\\SciqusTraining.API.csproj|solutionrelative:sciqustraining.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08146739-C58D-44DE-9E3B-9187EB3B1A1A}|SciqusTraining.API\\SciqusTraining.API.csproj|c:\\users\\abhishek\\desktop\\sciqus\\backend\\sciqustraining\\sciqustraining.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08146739-C58D-44DE-9E3B-9187EB3B1A1A}|SciqusTraining.API\\SciqusTraining.API.csproj|solutionrelative:sciqustraining.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08146739-C58D-44DE-9E3B-9187EB3B1A1A}|SciqusTraining.API\\SciqusTraining.API.csproj|c:\\users\\abhishek\\desktop\\sciqus\\backend\\sciqustraining\\sciqustraining.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08146739-C58D-44DE-9E3B-9187EB3B1A1A}|SciqusTraining.API\\SciqusTraining.API.csproj|solutionrelative:sciqustraining.api\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08146739-C58D-44DE-9E3B-9187EB3B1A1A}|SciqusTraining.API\\SciqusTraining.API.csproj|c:\\users\\abhishek\\desktop\\sciqus\\backend\\sciqustraining\\sciqustraining.api\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08146739-C58D-44DE-9E3B-9187EB3B1A1A}|SciqusTraining.API\\SciqusTraining.API.csproj|solutionrelative:sciqustraining.api\\data\\nzwalksauthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08146739-C58D-44DE-9E3B-9187EB3B1A1A}|SciqusTraining.API\\SciqusTraining.API.csproj|c:\\users\\abhishek\\desktop\\sciqus\\backend\\sciqustraining\\sciqustraining.api\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08146739-C58D-44DE-9E3B-9187EB3B1A1A}|SciqusTraining.API\\SciqusTraining.API.csproj|solutionrelative:sciqustraining.api\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08146739-C58D-44DE-9E3B-9187EB3B1A1A}|SciqusTraining.API\\SciqusTraining.API.csproj|c:\\users\\abhishek\\desktop\\sciqus\\backend\\sciqustraining\\sciqustraining.api\\models\\dto\\addwalkreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08146739-C58D-44DE-9E3B-9187EB3B1A1A}|SciqusTraining.API\\SciqusTraining.API.csproj|solutionrelative:sciqustraining.api\\models\\dto\\addwalkreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08146739-C58D-44DE-9E3B-9187EB3B1A1A}|SciqusTraining.API\\SciqusTraining.API.csproj|c:\\users\\abhishek\\desktop\\sciqus\\backend\\sciqustraining\\sciqustraining.api\\models\\dto\\addregionreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08146739-C58D-44DE-9E3B-9187EB3B1A1A}|SciqusTraining.API\\SciqusTraining.API.csproj|solutionrelative:sciqustraining.api\\models\\dto\\addregionreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08146739-C58D-44DE-9E3B-9187EB3B1A1A}|SciqusTraining.API\\SciqusTraining.API.csproj|c:\\users\\abhishek\\desktop\\sciqus\\backend\\sciqustraining\\sciqustraining.api\\models\\dto\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08146739-C58D-44DE-9E3B-9187EB3B1A1A}|SciqusTraining.API\\SciqusTraining.API.csproj|solutionrelative:sciqustraining.api\\models\\dto\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08146739-C58D-44DE-9E3B-9187EB3B1A1A}|SciqusTraining.API\\SciqusTraining.API.csproj|c:\\users\\abhishek\\desktop\\sciqus\\backend\\sciqustraining\\sciqustraining.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08146739-C58D-44DE-9E3B-9187EB3B1A1A}|SciqusTraining.API\\SciqusTraining.API.csproj|solutionrelative:sciqustraining.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08146739-C58D-44DE-9E3B-9187EB3B1A1A}|SciqusTraining.API\\SciqusTraining.API.csproj|c:\\users\\abhishek\\desktop\\sciqus\\backend\\sciqustraining\\sciqustraining.api\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08146739-C58D-44DE-9E3B-9187EB3B1A1A}|SciqusTraining.API\\SciqusTraining.API.csproj|solutionrelative:sciqustraining.api\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\Desktop\\Sciqus\\Backend\\SciqusTraining\\SciqusTraining.API\\Program.cs",
+              "RelativeDocumentMoniker": "SciqusTraining.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Abhishek\\Desktop\\Sciqus\\Backend\\SciqusTraining\\SciqusTraining.API\\Program.cs",
+              "RelativeToolTip": "SciqusTraining.API\\Program.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAhwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:23:03.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\Desktop\\Sciqus\\Backend\\SciqusTraining\\SciqusTraining.API\\Models\\DTO\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "SciqusTraining.API\\Models\\DTO\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\Abhishek\\Desktop\\Sciqus\\Backend\\SciqusTraining\\SciqusTraining.API\\Models\\DTO\\LoginRequestDto.cs",
+              "RelativeToolTip": "SciqusTraining.API\\Models\\DTO\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:58:20.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddWalkReqDto.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\Desktop\\Sciqus\\Backend\\SciqusTraining\\SciqusTraining.API\\Models\\DTO\\AddWalkReqDto.cs",
+              "RelativeDocumentMoniker": "SciqusTraining.API\\Models\\DTO\\AddWalkReqDto.cs",
+              "ToolTip": "C:\\Users\\Abhishek\\Desktop\\Sciqus\\Backend\\SciqusTraining\\SciqusTraining.API\\Models\\DTO\\AddWalkReqDto.cs",
+              "RelativeToolTip": "SciqusTraining.API\\Models\\DTO\\AddWalkReqDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:58:09.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NZWalksAuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\Desktop\\Sciqus\\Backend\\SciqusTraining\\SciqusTraining.API\\Data\\NZWalksAuthDbContext.cs",
+              "RelativeDocumentMoniker": "SciqusTraining.API\\Data\\NZWalksAuthDbContext.cs",
+              "ToolTip": "C:\\Users\\Abhishek\\Desktop\\Sciqus\\Backend\\SciqusTraining\\SciqusTraining.API\\Data\\NZWalksAuthDbContext.cs",
+              "RelativeToolTip": "SciqusTraining.API\\Data\\NZWalksAuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:15:46.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NZWalksDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\Desktop\\Sciqus\\Backend\\SciqusTraining\\SciqusTraining.API\\Data\\NZWalksDbContext.cs",
+              "RelativeDocumentMoniker": "SciqusTraining.API\\Data\\NZWalksDbContext.cs",
+              "ToolTip": "C:\\Users\\Abhishek\\Desktop\\Sciqus\\Backend\\SciqusTraining\\SciqusTraining.API\\Data\\NZWalksDbContext.cs",
+              "RelativeToolTip": "SciqusTraining.API\\Data\\NZWalksDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:15:43.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddRegionReqDto.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\Desktop\\Sciqus\\Backend\\SciqusTraining\\SciqusTraining.API\\Models\\DTO\\AddRegionReqDto.cs",
+              "RelativeDocumentMoniker": "SciqusTraining.API\\Models\\DTO\\AddRegionReqDto.cs",
+              "ToolTip": "C:\\Users\\Abhishek\\Desktop\\Sciqus\\Backend\\SciqusTraining\\SciqusTraining.API\\Models\\DTO\\AddRegionReqDto.cs",
+              "RelativeToolTip": "SciqusTraining.API\\Models\\DTO\\AddRegionReqDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:58:06.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\Desktop\\Sciqus\\Backend\\SciqusTraining\\SciqusTraining.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SciqusTraining.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Abhishek\\Desktop\\Sciqus\\Backend\\SciqusTraining\\SciqusTraining.API\\appsettings.json",
+              "RelativeToolTip": "SciqusTraining.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T05:46:44.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImageUploadRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\Desktop\\Sciqus\\Backend\\SciqusTraining\\SciqusTraining.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "RelativeDocumentMoniker": "SciqusTraining.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "ToolTip": "C:\\Users\\Abhishek\\Desktop\\Sciqus\\Backend\\SciqusTraining\\SciqusTraining.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "RelativeToolTip": "SciqusTraining.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:58:15.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IWalkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\Desktop\\Sciqus\\Backend\\SciqusTraining\\SciqusTraining.API\\Repositories\\IWalkRepository.cs",
+              "RelativeDocumentMoniker": "SciqusTraining.API\\Repositories\\IWalkRepository.cs",
+              "ToolTip": "C:\\Users\\Abhishek\\Desktop\\Sciqus\\Backend\\SciqusTraining\\SciqusTraining.API\\Repositories\\IWalkRepository.cs",
+              "RelativeToolTip": "SciqusTraining.API\\Repositories\\IWalkRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:58:20.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Abhishek\\Desktop\\Sciqus\\Backend\\SciqusTraining\\SciqusTraining.API\\Repositories\\IImageRepository.cs",
+              "RelativeDocumentMoniker": "SciqusTraining.API\\Repositories\\IImageRepository.cs",
+              "ToolTip": "C:\\Users\\Abhishek\\Desktop\\Sciqus\\Backend\\SciqusTraining\\SciqusTraining.API\\Repositories\\IImageRepository.cs",
+              "RelativeToolTip": "SciqusTraining.API\\Repositories\\IImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:58:16.672Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

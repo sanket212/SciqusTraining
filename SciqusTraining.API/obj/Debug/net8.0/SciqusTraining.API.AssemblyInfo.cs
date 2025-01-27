@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SciqusTraining.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95aa441b466dd760dda1fc38b0524be9f1ce437d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SciqusTraining.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SciqusTraining.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
